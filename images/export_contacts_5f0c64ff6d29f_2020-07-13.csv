@@ -1,0 +1,8 @@
+name,email,phoneNumber,userId,sourceId,sourceName,cacValue,cacCurrency,active,emailSubscribe,smsSubscribe,createdAt
+"Test 7",,380931831889,,,,,,1,0,1,2019-12-23
+"Test 6",,,147,,,,,1,0,0,2019-12-23
+"Test 5",,380931831887,789,,,,,1,0,1,2019-12-23
+Test4,yadoh779@email5.net,380932015518,456,,,,,1,1,1,2019-12-23
+"Test 3",yadoh708@email5.net,,,,,,,1,1,0,2019-12-23
+"Test 2",yadoh70879@email5.net,380931831886,,,,,,1,1,1,2019-12-23
+"Kate Kosh",kasia.vell@gmail.com,380931831885,123,,,,,1,1,1,2019-12-23
