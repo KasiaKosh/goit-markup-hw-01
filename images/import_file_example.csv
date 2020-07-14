@@ -1,4 +1,0 @@
-name,email,phoneNumber,userId,active,emailSubscribe,smsSubscribe,desktopWebPushSubscribe,mobileWebPushSubscribe,sourceId,cacValue,cacCurrency,var1,var2
-Some name,test@test.com,12221111111,userId1,1,1,1,1,1,registered_source_id_1,0.55,USD,test1,test2
-Another name,example@domain.tld,,user_id2,1,1,0,0,1,registered_source_id_2,1.5,eur,test3,test4
-Else another name,,12223333333,userid3,1,0,1,0,0,,,,test5,test6
